@@ -18,7 +18,7 @@ In order to accomplish to this goal, our project will more succintly investigate
 
 
 ## Summary
-(I recognize that the face color of the axes may blend on dark mode. I fill fix on a future iteration of this README.me. For a closer look, please review the provided report/notebook.)
+(I recognize that the facecolor of the plot axes may blend on dark mode. I fill fix on a future iteration of this README.me. For a closer look, please review the provided report/notebook.)
 
 To answer question 1, we used a voting ensemble classifier with a random forest classifier base estimator with default parameters to predict whether a song is popular or not popular. The model's F1 score was 0.878.
 
