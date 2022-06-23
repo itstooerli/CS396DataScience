@@ -1,12 +1,23 @@
-# Project Title
+# Song Popularity Predictors and Similar Songs
 
-Simple overview of use/purpose.
+This is a data science project leveraging a dataset of over 170,000 songs.
+We seek to create a playlist of songs of similar characteristics that shuffles the song popularity to improve the likelihood a user identifies a new song that he or she will enjoy.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+In order to accomplish to this goal, our project will more succintly investigate the following three questions in order:
+1. Can we predict whether a song is popular or not based on its attributes?
+2. Can we predict whether a song is relatively more popular than another based on their attributes?
+3. Can we suggest to a user a new song based on the current song they are listening to?
 
-## Getting Started
+## Navigation
+* To access the full detailed report, review final_report.pdf
+* To access the code notebook, to preview on GitHub, review SongPredictorFinal.ipynb
+* To access the code nodebook, to preview on browser, review SongPredictorFinal.html
+* To access the dataset, review cleaned_spotify.csv
+
+
+## Summary
 
 ### Dependencies
 
@@ -26,37 +37,15 @@ An in-depth paragraph about your project and overview of use.
 code blocks for commands
 ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+Contributors names
+* Eric Li
+* Wanqin Chen
+* Yuwei Wang 
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+Dataset and supplemental material
+* [spags093](https://github.com/spags093/spotify_song_data)
+* [Spotify API](https://developer.spotify.com/documentation/web-api/quick-start/)
